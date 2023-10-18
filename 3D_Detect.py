@@ -18,8 +18,8 @@ import math
 import matplotlib.pyplot as plt
 
 ##################### USER SET VARIABLES ############################
-vid=r'StentorMirrorMicroscope.mov'          # (input) Video to be analyzed
-dataFileName='3D_Detect_FullStentor_3.csv'  # (output) detection output file 
+vid=r'mirrorMicroscopeVideo.mp4'   # (input) Video to be analyzed
+dataFileName='3D_Detect.csv'      # (output) detection output file 
 
 ##################### PROGRAM VARIABLES ############################
 xRez=640; yRez=480;     # video is resized to this rez
